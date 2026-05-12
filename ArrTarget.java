@@ -1,3 +1,4 @@
+//LeetCode #26- Two Sum problem
 import java.util.Scanner;
 public class ArrTarget{
     public static void main(String[] args){
