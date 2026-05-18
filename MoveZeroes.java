@@ -1,4 +1,4 @@
-//LeetCode#283- Move Zeroes
+//LeetCode#283- Move Zeroes.
 import java.util.Scanner;
 public class MoveZeroes{
     public void shift(int nums[]){
