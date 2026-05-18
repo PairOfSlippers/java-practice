@@ -1,5 +1,5 @@
 //LeetCode#448- Find All Numbers Disappeared in an Array.
-//Using Marking method with O(n) time complexity..
+//Using Marking method with O(n) time complexity.
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
