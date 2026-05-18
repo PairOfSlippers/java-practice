@@ -1,4 +1,4 @@
-//LeetCode #121- Best time to buy and sell stock
+//LeetCode #121- Best time to buy and sell stock.
 import java.util.Scanner;
 public class StockArr{
     public int Max(int prices[]){
