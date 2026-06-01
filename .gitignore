@@ -3,9 +3,10 @@
 .idea/
 *.iml
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+**/src/main/**/out/
+**/src/test/**/out/
 .kotlin
+.gitignore
 
 ### Eclipse ###
 .apt_generated
