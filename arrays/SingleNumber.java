@@ -1,4 +1,4 @@
-//LeetCode#136- Single Number (Using Brute force).
+//LeetCode#136- Single Number (Using Brute force)
 import java.util.Scanner;
 public class SingleNumber{
     public int find(int nums[]){

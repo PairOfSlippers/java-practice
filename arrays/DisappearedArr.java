@@ -1,5 +1,5 @@
 //LeetCode#448- Find All Numbers Disappeared in an Array.
-//Brute force method with O(n^2) time complexity..
+//Brute force method with O(n^2) time complexity.
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
