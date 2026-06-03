@@ -1,3 +1,5 @@
+//LeetCode #234 - Check whether a linked list is palindrome.
+// Time - O(n)  | Space - O(1)
 public class Palindrome_LL {
     Node head;
 
